@@ -1,5 +1,7 @@
 # AI Travel Planner
 
+> **Live demo:** https://travel-planner.anmolkushwaha.in/ (no setup needed, just open and try)
+
 A multi-agent travel planning system with **human-in-the-loop (HITL) approval**.
 
 A user submits a travel request (destination, dates, budget, travelers, interests). A LangGraph orchestrator runs two specialised agents:
